@@ -16,3 +16,8 @@ APIs Used 🌐
 OpenWeatherMap API: Fetches real-time weather data, 5-day forecasts, and air quality information.
 GeoNames API: Provides detailed city information including population, timezone, and elevation.
 Wikipedia API: Retrieves a brief description of the city from Wikipedia.
+
+
+![image](https://github.com/user-attachments/assets/4e79e23b-5e91-42c2-973e-d628590860ae)
+
+![image](https://github.com/user-attachments/assets/42da1572-cfca-43b0-bdd2-d146c3989e32)
